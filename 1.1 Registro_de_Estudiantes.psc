@@ -7,7 +7,7 @@ Algoritmo Registro_de_Estudiantes
 	Leer edad
 	Escribir 'Carrera'
 	Leer carrera
-	Escribir 'Escriba el semestre que est· cursando'
+	Escribir 'Escriba el semestre que est√° cursando'
 	Leer semestre
 	Escribir 'Nombre completo: ', nombre_completo
 	Escribir 'Edad: ', edad
